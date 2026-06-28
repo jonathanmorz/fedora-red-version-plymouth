@@ -1,0 +1,1 @@
+# fedora-red-version-plymouth
